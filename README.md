@@ -97,7 +97,7 @@ Dashboard
 ![Interactive Dashboard](Images/Screenshot%202026-06-12%20131133.png)
 
 MIS Report
-![MIS Report](Images/Screenshot%202026-06-18%20163808.png)
+
 📁 Project Structure
 Social-Media-Performance-Analysis
 │
